@@ -1,0 +1,72 @@
+.Header{
+	font-family: Impact;
+	font-size: 20px;
+	color: teal;
+}
+
+.center{
+	text-align: center;
+}
+
+.left{
+	text-align: left;
+}
+
+.right{
+	text-align: right;
+}
+
+.justify{
+	text-align: justify;
+}
+
+.body{
+	font-family : Consolas;
+	font-size: 20px;
+}
+
+.purple{
+	color : purple;
+}
+
+.b_teal{
+	background-color: teal;
+}
+
+.maroon{
+	color: maroon;
+}
+
+.b_aqua{
+	background-color: aqua;
+}
+
+.b_yellow{
+	background-color: yellow;
+}
+
+.brown{
+	color: brown;
+}
+
+.b_black{
+	background-color: black;
+}
+
+.white{
+	color: white;
+}
+
+h2, h3{
+	color: black;
+	font-family: Helvetica;
+}
+
+img{
+	display: inner-block;
+	margin: 10px;
+}
+
+
+	
+
